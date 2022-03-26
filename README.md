@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Objective
-The purpose of this project is to convince stakeholders that a bike-sharing program in Des Moines is a solid business proposal.  I will use Tableau to visualize the citibite data.
+The purpose of this project is to convince stakeholders that a bike-sharing program in Des Moines is a solid business proposal.  I will use Tableau to visualize the citibike data.
 
 ### Deliverables
 - Use Python and Pandas to Change Trip Duration to a Datetime Format
@@ -12,8 +12,9 @@ The purpose of this project is to convince stakeholders that a bike-sharing prog
 
 ### Tools/Languages
 - Tableau Public 2021.4.4
-- Pandas 
+- Pandas 1.3.4
 - Python 3.7.11
+- Jupyter Notebook 6.4.5
 
 ### Sites/Data
 - 201908-citibike-tripdata.csv
@@ -22,3 +23,55 @@ The purpose of this project is to convince stakeholders that a bike-sharing prog
 
 ## Results
 View my complete visualization here: [link to dashboard](https://public.tableau.com/app/profile/tiana5411/viz/CitiBikeData_16480896124550/CitiBikeStory) 
+
+### Trips by Gender by Weekday
+
+![trip-gender-weekday](https://user-images.githubusercontent.com/33010018/160217025-2d22cc3d-1729-4594-8ee8-10973a71723d.png)
+
+Most subscribers are male and Thurdays is the most used day for male subscribers.  Female customers mostly use the service on Saturday and Sunday.
+
+### Trips by Gender by Weekday Per Hour
+
+![trips-by-gender-by-weekday](https://user-images.githubusercontent.com/33010018/160217160-dc08a541-6577-46fd-8152-f3767ff867c6.png)
+
+Most trips occur between 6AM-9AM and 5PM-8PM for each day of the week.
+
+### Trips by Weekday for Each Hour
+
+![trips-weekday-hour](https://user-images.githubusercontent.com/33010018/160217352-8360d9dd-dcb3-41b6-a5b3-1e0faa0be040.png)
+
+The most trips occur on Thursday around 6PM.
+
+### Checkout Times by Gender
+
+![Screen Shot 2022-03-25 at 8 34 56 PM](https://user-images.githubusercontent.com/33010018/160217490-171c4601-0bfa-484c-b875-28c0571c9687.png)
+
+Males have the highest tripduration with a peak of 5 hours.
+
+### Checkout Times for All Users
+
+![checkout-for-all](https://user-images.githubusercontent.com/33010018/160217806-8aeddc31-239f-4032-a592-1b17b6c67643.png)
+
+
+The longest checkout time for all users is around 5 hours.
+
+### August Peak Hours
+
+![Screen Shot 2022-03-25 at 8 47 11 PM](https://user-images.githubusercontent.com/33010018/160217923-c621885e-dc7b-41d8-855e-060e365009b5.png)
+
+The highest count around 220K and the peak hour is 5PM.
+
+### Bike Utilization
+
+![Screen Shot 2022-03-25 at 8 50 40 PM](https://user-images.githubusercontent.com/33010018/160218038-64a81761-174c-49a2-b247-d1f0a9765af6.png)
+
+
+The bike with the most tripduration has almost 4 million trips.
+
+
+## Summary
+
+The most utilization occurs on weekdays when people are either going to or leaving work.   
+
+
+
