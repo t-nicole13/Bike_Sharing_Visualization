@@ -3,10 +3,12 @@
 ## Objective
 The purpose of this project is to use Tableau to visualize the citibike data.
 
-### Deliverables
-- Use Python and Pandas to Change Trip Duration to a Datetime Format
-- Use Tableau Public to Create Visualizations for the Trip Analysis
-- Create a Story and Report for the Final Presentation
+### Tasks
+1. Imported 201908-citibike-tripdata.csv file to Jupyter Notebook and convert to a Pandas DataFrame.
+2. Check the DataFrame's columns for improper data types.
+2. Used Python and Pandas to change the DataFrame's trip duration column to a datetime format.
+3. Used Tableau Public to create visualizations for the trip analysis.
+4. Created a story and report with Tableau Public for the final presentation.
 
 ## Resources
 
