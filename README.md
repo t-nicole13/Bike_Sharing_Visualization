@@ -1,4 +1,4 @@
-# bikesharing
+# Bike_Sharing_Visualization
 
 ## Objective
 The purpose of this project is to use Tableau to visualize the citibike data.
