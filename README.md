@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Objective
-The purpose of this project is to convince stakeholders that a bike-sharing program in Des Moines is a solid business proposal.  I will use Tableau to visualize the citibike data.
+The purpose of this project is to use Tableau to visualize the citibike data.
 
 ### Deliverables
 - Use Python and Pandas to Change Trip Duration to a Datetime Format
