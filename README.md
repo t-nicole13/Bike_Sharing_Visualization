@@ -7,8 +7,10 @@ The purpose of this project is to use Tableau to visualize and analyse the bike 
 1. Imported 201908-citibike-tripdata.csv file to Jupyter Notebook and convert to a Pandas DataFrame.
 2. Checked the DataFrame's columns for improper data types.
 2. Used Python and Pandas to change the DataFrame's trip duration column to a datetime format.
-3. Used Tableau Public to create visualizations for the trip analysis.
-4. Created a story and report with Tableau Public for the final presentation.
+3. Converted the DataFrame to a csv file (trip_data.csv) for use in Tableau Public.
+4. Used Tableau Public to create visualizations for the trip analysis.
+5. Created a story and report with Tableau Public for the final presentation.
+
 
 ## Resources
 
