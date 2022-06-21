@@ -1,7 +1,7 @@
 # Bike_Sharing_Visualization
 
 ## Objective
-The purpose of this project is to use Tableau to visualize the citibike data.
+The purpose of this project is to use Tableau to visualize and analyse the bike sharing data.
 
 ### Tasks
 1. Imported 201908-citibike-tripdata.csv file to Jupyter Notebook and convert to a Pandas DataFrame.
@@ -83,9 +83,9 @@ The most users were born in 1969.  However, the next group of users were born in
 Most of the older users are female.
 
 
-## Summary
+## Final Analysis
 
-The most utilization occurs on weekdays when people are either going to or leaving work. Bike maintenance should occur between work hours when there is less utilization.   Males appear to mostly use the service and also take longer trips.  More research should be done on why females are less likely to subscribe to the service.
+The most utilization occurs on weekdays when people are either going to or leaving work. Bike maintenance may occur between work hours when there is less utilization.   Males appear to mostly use the service and also take longer trips.  More research should be done on why females are less likely to subscribe to the service.
 
 
 
